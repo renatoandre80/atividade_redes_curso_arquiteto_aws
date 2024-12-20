@@ -28,10 +28,10 @@ ping 192.168.1.12
 
 ## Imagem arquitetura estrela 
 
-![Arquitetura Estrela](atividade_redes_curso_arquiteto_aws/arquitetura_estrela.jpg)
+![Arquitetura Estrela](arquitetura_estrela.jpg)
 
 ## Imagem Ping com sucesso
 
-![Ping](atividade_redes_curso_arquiteto_aws/ping_pc3.jpg)
+![Ping](ping_pc3.jpg)
 
 
